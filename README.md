@@ -18,3 +18,13 @@ R, dplyr, ggplot2, RMarkdown
 
 ## Notes / Limitations
 Country-level enrollment may not reflect individual billionaire educational attainment; net worth is a snapshot and can fluctuate.
+
+---
+
+## Collaborators
+- Jacob Edmonds
+- Zoe Rockas
+- Aditya Pillutla
+- Kat Craig
+- Mac Robinson
+- Gloria Yang
