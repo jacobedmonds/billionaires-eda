@@ -21,10 +21,10 @@ Country-level enrollment may not reflect individual billionaire educational atta
 
 ---
 
-## Collaborators
-- Jacob Edmonds
-- Zoe Rockas
-- Aditya Pillutla
-- Kat Craig
-- Mac Robinson
-- Gloria Yang
+## Project Context
+This was a team-based course project completed for STOR 320 at UNC–Chapel Hill.
+
+## My Contributions
+- Proposed and refined the core research questions guiding the exploratory analysis
+- Designed and implemented visualizations comparing billionaire industries and net worth across education-level groupings
+- Interpreted visual patterns to support analytical conclusions
