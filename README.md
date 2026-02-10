@@ -22,7 +22,7 @@ Country-level enrollment may not reflect individual billionaire educational atta
 ---
 
 ## Project Context
-This was a team-based course project completed for STOR 320 at UNC–Chapel Hill.
+This was a team-based course project completed for STOR 320 (Data Science) at UNC–Chapel Hill.
 
 ## My Contributions
 - Proposed and refined the core research questions guiding the exploratory analysis
